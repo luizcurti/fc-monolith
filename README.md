@@ -1,5 +1,6 @@
-fc-monolith
-This project is a monolith developed during the @devfullcycle course. It demonstrates building a monolithic architecture using TypeScript, with a focus on clean code and testing practices.
+# NodeJs Monolith
+
+This project is a monolith. It demonstrates building a monolithic architecture using TypeScript, with a focus on clean code and testing practices.
 
 Technologies
 TypeScript
